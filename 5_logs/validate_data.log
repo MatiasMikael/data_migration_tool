@@ -1,0 +1,4 @@
+2025-01-10 19:11:16.156 | INFO     | __main__:fetch_postgres_row_count:23 - Connecting to PostgreSQL to fetch row count...
+2025-01-10 19:11:16.412 | INFO     | __main__:fetch_postgres_row_count:28 - PostgreSQL row count: 1000
+2025-01-10 19:11:16.474 | INFO     | __main__:fetch_mongodb_row_count:46 - MongoDB row count: 1000
+2025-01-10 19:11:16.476 | INFO     | __main__:validate_data:60 - Validation successful: Row counts match.

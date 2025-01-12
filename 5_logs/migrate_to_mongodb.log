@@ -1,0 +1,3 @@
+2025-01-10 19:07:30.025 | INFO     | __main__:fetch_data_from_postgres:25 - Connecting to PostgreSQL...
+2025-01-10 19:07:30.530 | INFO     | __main__:fetch_data_from_postgres:30 - Fetched 1000 rows from PostgreSQL.
+2025-01-10 19:07:30.797 | INFO     | __main__:insert_data_into_mongodb:52 - Inserted 1000 rows into MongoDB.
